@@ -55,6 +55,7 @@
 - Ensuring smooth integration between front-end (Thymeleaf) and back-end (Spring Boot) components.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/7675f5fd-2b9c-4cfc-94c1-a555084398f5)
 ![image](https://github.com/user-attachments/assets/60a5cccb-75c6-4c83-8e91-65d617bb6469)
 ![image](https://github.com/user-attachments/assets/dcaad99e-f740-41d9-add9-a96eca1070eb)
 ![image](https://github.com/user-attachments/assets/a7f23848-7b1f-4f7d-a4ea-a37467144bc0)
