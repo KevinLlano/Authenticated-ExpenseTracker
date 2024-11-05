@@ -56,10 +56,10 @@
 
 ## Screenshots
 > Include screenshots here to demonstrate the setup and deployment.
->![img.png](img.png)
->![img_3.png](img_3.png)
-> ![img_2.png](img_2.png)
-> ![img_4.png](img_4.png)
+![img.png](img.png)
+![img_3.png](img_3.png)
+![img_2.png](img_2.png)
+![img_4.png](img_4.png)
 
 
 
