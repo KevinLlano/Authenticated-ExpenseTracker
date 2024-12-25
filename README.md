@@ -5,35 +5,35 @@
 
 ## How to Replicate the Project
 
-1. **Project Setup with Spring Boot and Thymeleaf**
+Step 1. **Project Setup with Spring Boot and Thymeleaf**
     - Initialize a Spring Boot project with dependencies for Spring Data JPA, Thymeleaf, and Web. Organize the structure into `config`, `controller`, `model`, `repository`, and `service` packages.
 
-2. **Database Configuration**
+Step 2. **Database Configuration**
     - Configure `application.properties` with MySQL database credentials, Hibernate settings, and datasource URL.
 
-3. **Entity and Repository Creation**
+Step 3. **Entity and Repository Creation**
     - Define `Account` and `Transaction` entities in `model`. Create `AccountRepository` and `TransactionRepository` for database operations.
 
-4. **Service Layer Implementation**
+Step 4. **Service Layer Implementation**
     - Implement `AccountService` in `service` to handle business logic.
 
-5. **Controller Setup**
+Step 5. **Controller Setup**
     - Use `BankController` in `controller` to handle routes for dashboard, deposit, withdraw, and transfer operations.
 
-6. **Frontend with Thymeleaf Templates**
+Step 6. **Frontend with Thymeleaf Templates**
     - Develop Thymeleaf templates (`dashboard.html`, `login.html`, `register.html`, etc.) to display data from the backend.
 
-7. **Security Configuration**
+Step 7. **Security Configuration**
     - Configure `SecurityConfig` in `config` to manage login and access control.
 
-8. **Testing CRUD Operations**
+Step 8. **Testing CRUD Operations**
     - Test:
         - **Create**: Register new accounts.
         - **Read**: View account details and balance.
         - **Update**: Perform deposits, withdrawals, and transfers.
         - **Delete**: Withdraw to reduce balance.
 
-9. **Run and Verify the Application**
+Step 9. **Run and Verify the Application**
     - Launch the Spring Boot app on `localhost:8080` and verify all features work as expected.
 
 ---
