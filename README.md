@@ -1,5 +1,9 @@
 # SpringBoot Expense Tracker
 
+# Getting Started
+## Prerequisites
+**Ensure your MySQL database is initialized to add your own data. This step is crucial!**
+
 ## Overview
 > This Project Showcases Crud-based MVC  
 
@@ -38,10 +42,13 @@ Step 9. **Run and Verify the Application**
 
 ---
 
-## Highlights - Technologies Used
-- **SpringBoot**
-- **Thymeleaf**
-- **MySQL**
+## Technologies Used
+Backend: SpringBoot
+Frontend: Thymeleaf
+Database: MySQL
+Hosting: AWS Services
+Version Control: GitHub
+BackEnd Components: Spring Data JPA, Hibernate, Lombok, Maven
 
 
 ## Key Functionality
@@ -60,14 +67,6 @@ Step 9. **Run and Verify the Application**
 ![image](https://github.com/user-attachments/assets/dcaad99e-f740-41d9-add9-a96eca1070eb)
 ![image](https://github.com/user-attachments/assets/a7f23848-7b1f-4f7d-a4ea-a37467144bc0)
 ![image](https://github.com/user-attachments/assets/89fa3169-a438-4fd2-b67d-1019fa99685b)
-
-
-
-
-
-
-
-
 
 
 
