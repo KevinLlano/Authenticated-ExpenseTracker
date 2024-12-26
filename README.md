@@ -1,12 +1,11 @@
-# SpringBoot Expense Tracker
+# SpringBoot CRUD MVC Expense Tracker
 
-# Getting Started
-## Prerequisites
+## Getting Started
+### Prerequisites
 **Ensure your MySQL database is initialized to add your own data. This step is crucial!**
 
-## Overview
-> This Project Showcases Crud-based MVC  
 
+## Overview
 ## How to Replicate the Project
 
 Step 1. **Project Setup with Spring Boot and Thymeleaf**
