@@ -2,7 +2,7 @@
 
 ## Getting Started
 ### Prerequisites
-**Ensure your MySQL database is initialized to add your own data. This step is crucial!**
+-**Ensure your MySQL database is initialized to add your own data. This step is crucial!**
 
 
 ## Overview
