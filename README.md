@@ -42,12 +42,13 @@ Step 9. **Run and Verify the Application**
 ---
 
 ## Technologies Used
--Backend: SpringBoot
--Frontend: Thymeleaf
--Database: MySQL
--Hosting: AWS Services
--Version Control: GitHub
--BackEnd Components: Spring Data JPA, Hibernate, Lombok, Maven
+- **Backend**: SpringBoot  
+- **Frontend**: Thymeleaf  
+- **Database**: MySQL  
+- **Hosting**: AWS Services  
+- **Version Control**: GitHub  
+- **BackEnd Components**: Spring Data JPA, Hibernate, Lombok, Maven  
+
 
 
 ## Key Functionality
